@@ -2,6 +2,7 @@ public class InfantryStrength {
     public static void main(String[] args) {
         final int infantryLannisters = 1207;
         final int orksSaruman = 2000;
+
         final int totalInfantry = infantryLannisters + orksSaruman;
 
         System.out.println("Численность пехоты у Ланнистеров составляет - " + infantryLannisters + " единиц.");
